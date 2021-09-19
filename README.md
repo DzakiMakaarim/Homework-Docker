@@ -1,3 +1,10 @@
+#This is homework for docker lesson rakamin
+
+How to use:
+1. `docker compose up -d` this will run all container and using port 3000 
+2. `docker compose down` this will stop all container
+
+
 # :memo: Go To Do App
 
 This is a to-do list application. The complete tutorial is published on [my blog](https://schadokar.dev/posts/build-a-todo-app-in-golang-mongodb-and-react/).
