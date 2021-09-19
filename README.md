@@ -1,7 +1,7 @@
-#This is homework for docker lesson rakamin
+# This is homework for docker module rakamin
 
 How to use:
-1. `docker compose up -d` this will run all container and using port 3000 
+1. `docker compose up -d` this will run all container and can be access using localhost:3000
 2. `docker compose down` this will stop all container
 
 
