@@ -6,7 +6,7 @@ ENV REACT_APP_GO_ENDPOINT=http://localhost:8080
 
 COPY . .
 
-RUN npm run build
+RUN npm install
 
 EXPOSE 3000
 
